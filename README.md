@@ -2,6 +2,8 @@
 
 There are six popular process scheduling algorithms which are used very often −
 
+
+
 ## First-Come, First-Served (FCFS) Scheduling
 ## Shortest-Job-First(SJF) Scheduling   (Preemptive and Non-Preemptive)
 ## Priority Scheduling  (Preemptive and Non-Preemptive)
