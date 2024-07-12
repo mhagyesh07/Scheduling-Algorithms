@@ -1,0 +1,191 @@
+FCFS
+
+Test Case 1:
+4
+5 10 15 8
+
+Test Case 2:
+3
+6 12 4
+
+Test Case 3:
+2
+7 9
+
+
+
+MEMORY ALLOCATION
+
+Test Case 1:
+4
+5
+212 417 112 426
+100 500 200 300 600
+1      
+
+Test Case 2:
+3
+4
+100 500 200
+300 600 100 400
+2
+
+Test Case 3:
+5
+3
+212 417 112 426 300
+100 500 200
+3
+
+
+
+Priority NP
+
+Test Case 1:
+4
+1 0 5
+2 1 3
+3 2 8
+4 3 6
+
+Test Case 2:
+3
+1 0 7
+2 2 4
+3 4 1
+
+Test Case 3:
+5
+1 0 10
+2 1 5
+3 2 8
+4 3 6
+5 4 2
+
+
+
+
+Priority P
+
+Test Case 1:
+4
+5 0 2
+3 1 1
+8 2 3
+6 3 4
+
+Test Case 2:
+3
+7 0 1
+4 2 2
+1 4 3
+
+Test Case 3:
+5
+10 0 3
+5 1 1
+8 2 2
+6 3 4
+2 4 5
+
+
+
+
+
+RR
+
+Test Case 1:
+3
+4
+5 8 12
+
+Test Case 2:
+4
+3
+2 3 4 5
+
+Test Case 3:
+5
+2
+10 1 2 1 5
+
+
+
+
+SJF NP
+
+Test Case 1:
+4
+6 2
+8 1
+7 3
+3 4
+
+Test Case 2:
+5
+4 0
+3 1
+1 2
+2 3
+6 4
+
+Test Case 3:
+3
+5 0
+2 1
+3 2
+
+
+
+
+SJF P
+
+Test Case 1:
+4
+0 6
+1 8
+2 7
+3 3
+
+Test Case 2:
+3
+0 5
+1 9
+2 6
+
+Test Case 3:
+5
+0 4
+1 3
+2 1
+3 2
+4 5
+
+MLQ
+
+Test Case 1:
+5
+3
+0 5 8
+1 3 6
+2 8 4
+3 6 2
+4 2 7
+
+Test Case 2:
+4
+2
+0 4 5
+1 3 3
+2 2 8
+3 1 1
+
+Test Case 3:
+6
+4
+0 6 9
+1 2 5
+2 4 7
+3 8 3
+4 5 6
+5 3 2
