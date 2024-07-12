@@ -14,30 +14,6 @@ Test Case 3:
 
 
 
-MEMORY ALLOCATION
-
-Test Case 1:
-4
-5
-212 417 112 426
-100 500 200 300 600
-1      
-
-Test Case 2:
-3
-4
-100 500 200
-300 600 100 400
-2
-
-Test Case 3:
-5
-3
-212 417 112 426 300
-100 500 200
-3
-
-
 
 Priority NP
 
